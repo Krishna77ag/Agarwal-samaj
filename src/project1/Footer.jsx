@@ -14,16 +14,16 @@ function Footer() {
 
       {/* <!-- Right --> */}
       <div >
-        <a href="https://www.facebook.com/HimanshuNobee/" className="text-white me-4">
+        <a href="" className="text-white me-4">
           <FaFacebookF/>
         </a>
-        <a href="https://www.instagram.com/himanshu_nobee/" className="text-white me-4">
+        <a href="" className="text-white me-4">
           <FaInstagram />
         </a>
         <a href="mailto:krishnabansal2277@gmail.com" className="text-white me-4">
           <FaGoogle />
         </a>
-        <a href="https://www.linkedin.com/in/himanshu-nobee/" className="text-white">
+        <a href="https://www.linkedin.com/in/krishna agarwal/" className="text-white">
           <FaLinkedin />
         </a>
       </div>

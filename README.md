@@ -6,9 +6,6 @@
 
 ![image](https://user-images.githubusercontent.com/88354536/182081714-a8d817c7-7272-47b5-aa0a-2f85b7bf0012.png)
 
-### `Contacts`
-
-![image](https://user-images.githubusercontent.com/88354536/182081996-a3d54aef-810d-4338-9c8e-df8777aa3465.png)
 
 ### `Gallery`
 

@@ -20,7 +20,7 @@ function Footer() {
         <a href="https://www.instagram.com/himanshu_nobee/" className="text-white me-4">
           <FaInstagram />
         </a>
-        <a href="mailto:guptahim1999@gmail.com" className="text-white me-4">
+        <a href="mailto:krishnabansal2277@gmail.com" className="text-white me-4">
           <FaGoogle />
         </a>
         <a href="https://www.linkedin.com/in/himanshu-nobee/" className="text-white">
